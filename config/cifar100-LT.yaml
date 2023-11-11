@@ -1,0 +1,71 @@
+name: 'vpt_deep-LT_gcl_sam_mp'
+
+# ----- DATASET BUILDER -----
+dataset: 'cifar100'
+data_path: './data/' 
+type: 'LT'
+## Long Tailed settings
+LT:
+ enable: True
+ imb_type: 'exp'
+ imb_factor: 0.01
+head_class_idx:
+  - 0
+  - 36
+med_class_idx:
+  - 36
+  - 71
+tail_class_idx:
+  - 71
+  - 100
+sampler:
+  type: "default"
+  #weighted:
+  #  type: 'balance'
+  #dual_sample:
+    #enable: False
+    #type:'long-tailed'
+
+
+# ----- BACKBONE BUILDER -----
+# to do
+
+# ----- LOSS BUILDER -----
+loss:
+  type: 'GCLLoss' #'CrossEntropyLoss'  # 'LDAMLoss' # 
+  GCL:
+      noise_mul: 1.
+      reweight_epoch: 59
+      s : 25.
+      m : 0.1
+  #LDAM:
+  # reweight_epoch: -1
+
+# ----- Train -----
+epochs: 70
+warmup_epochs: 10
+batch_size: 128
+optimizer: 'sgd'
+base_lr: 0.01
+momentum: 0.9
+weight_decay: 0.001
+decay_rate: 0.001
+image_size: 224
+scheduler: 'cosine'
+
+# ----- Prompt setting -----
+prompt_length: 10
+base_model: 'vit_base_patch16_224_in21k'
+VPT_type: 'Deep' #'Shallow' #'Deep' #insert
+patch_size: 16
+
+
+# ----- Other setting ----- 
+print_freq: 40
+workers: 0
+merge_prompt: False
+dis_mul: 0.1
+
+
+
+
