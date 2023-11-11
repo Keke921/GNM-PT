@@ -1,2 +1,2 @@
-# RSAM
-temporary demo for RSAM-PT.
+# RSAM-PT
+Temporary demo for RSAM-PT.
