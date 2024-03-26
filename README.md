@@ -8,4 +8,4 @@ This repository is based on unofficial repository [vpt_reproduce](https://github
 ![](sketch-sam_vs_gnm.png)
 
 Schematic of the parameter update in GNM and SAM. 
-$\boldsymbol{\theta}'_{t+1}$, $ $\boldsymbol{\theta}^{SAM}_{t+1}$ and $\boldsymbol{\theta}^{GNM}_{t+1}$ represent the gradient update with original SGD, with SAM and with GNM for step $t+1$, respectively.
+$\boldsymbol{\theta}'_{t+1}, \boldsymbol{\theta}^{SAM}_{t+1}$ and $\boldsymbol{\theta}^{GNM}_{t+1}$ represent the gradient update with original SGD, with SAM and with GNM for step $t+1$, respectively.
