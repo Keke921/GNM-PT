@@ -3,5 +3,4 @@ Temporary demo for GNM-PT.
 
 The GNM is in [gnm.py](https://github.com/Keke921/RSAM-PT/blob/main/gnm.py). 
 
-This repository is based on unofficial repository [vpt_reproduce](https://github.com/DongSky/vpt_reproduce) by DongSky and unofficial repository [SAM](https://github.com/davda54/sam) by davda54.
 
