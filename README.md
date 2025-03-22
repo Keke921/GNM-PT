@@ -1,3 +1,19 @@
+<h1 align="center"> Improving Visual Prompt Tuning by Gaussian Neighborhood Minimization for Long-Tailed Visual Recognition </h1>
+<p align="center">
+    <a href="https://arxiv.org/pdf/2410.21042"><img src="https://img.shields.io/badge/arXiv-2306.06963-b31b1b.svg" alt="Paper"></a>
+    <a href="https://vcc.tech/research/2024/GNM-PT"><img alt="overview" src="https://img.shields.io/static/v1?label=overview&message=VCC%20Project&color=blue"></a>
+    <!-- <a href="https://github.com/Keke921/GNM-PT"><img src="https://img.shields.io/badge/-Github-grey?logo=github" alt="Github"></a> -->
+    <!-- <a href=""><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Colab"></a> -->
+    <!-- <a href="https://openreview.net/forum?id=xxx"> <img alt="License" src="https://img.shields.io/static/v1?label=Pub&message=AAAI%2723&color=blue"></a> -->
+    <a href="https://github.com/Keke921/GNM-PT/blob/main/LICENSE"> <img alt="License" src="https://img.shields.io/github/license/LFhase/PAIR?color=blue"></a>
+    <!-- <a href="https://nips.cc/virtual/2023/poster/70939"> <img src="https://img.shields.io/badge/Video-grey?logo=Kuaishou&logoColor=white" alt="Video"></a> -->
+    <a href="https://github.com/Keke921/GNM-PT/blob/main/Slides%20Poster%20Video/NeurIPS24_Slides.pptx"> <img src="https://img.shields.io/badge/Slides-grey?&logo=MicrosoftPowerPoint&logoColor=white" alt="Slides"></a>
+    <a href="https://github.com/Keke921/GNM-PT/blob/main/Slides%20Poster%20Video/NeurIPS24_Slides.pdf"> <img src="https://img.shields.io/badge/Slides-grey?logo=airplayvideo&logoColor=white" alt="Slides"></a>
+    <a href="https://github.com/Keke921/GNM-PT/blob/main/Slides%20Poster%20Video/NeurIPS24_Poster.pdf"> <img src="https://img.shields.io/badge/Poster-grey?logo=airplayvideo&logoColor=white" alt="Poster"></a>
+</p>
+
+
+
 # GNM-PT
 Temporary demo for GNM-PT.
 
