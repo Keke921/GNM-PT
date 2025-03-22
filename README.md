@@ -10,7 +10,7 @@
     <a href="https://github.com/Keke921/GNM-PT/blob/main/Slides%20Poster%20Video/NeurIPS24_Slides.pptx"> <img src="https://img.shields.io/badge/Slides-grey?&logo=MicrosoftPowerPoint&logoColor=white" alt="Slides"></a>
     <a href="https://github.com/Keke921/GNM-PT/blob/main/Slides%20Poster%20Video/NeurIPS24_Slides.pdf"> <img src="https://img.shields.io/badge/Slides-grey?logo=airplayvideo&logoColor=white" alt="Slides"></a>
     <a href="https://github.com/Keke921/GNM-PT/blob/main/Slides%20Poster%20Video/NeurIPS24_Poster.pdf"> <img src="https://img.shields.io/badge/Poster-grey?logo=airplayvideo&logoColor=white" alt="Poster"></a>
-    <a href="https://github.com/Keke921/GNM-PT/blob/main/Slides%20Poster%20Video/NeurIPS_Video.mp4"> <img src="https://img.shields.io/badge/Video-grey?logo=airplayvideo&logoColor=white" alt="Video"></a>
+    <a href="https://github.com/Keke921/GNM-PT/blob/main/Slides%20Poster%20Video/NeurIPS24_Video.mp4"> <img src="https://img.shields.io/badge/Video-grey?logo=airplayvideo&logoColor=white" alt="Video"></a>
 </p>
 
 
