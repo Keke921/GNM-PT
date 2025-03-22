@@ -13,12 +13,10 @@
 </p>
 
 
-
 # GNM-PT
 Temporary demo for GNM-PT.
 
-The GNM is in [gnm.py](https://github.com/Keke921/RSAM-PT/blob/main/gnm.py). 
-
+The core code is in [gnm.py](https://github.com/Keke921/RSAM-PT/blob/main/gnm.py). 
 
 
 ## You May Find Our Additional Works of Interest
@@ -33,3 +31,20 @@ The GNM is in [gnm.py](https://github.com/Keke921/RSAM-PT/blob/main/gnm.py).
 
 * [TAI'24] Adjusting logit in Gaussian form for long-tailed visual recognition [[paper](https://arxiv.org/pdf/2305.10648)] [[code](https://github.com/Keke921/GCLLoss)]
 
+## Misc
+
+If you find our paper and repo useful, please cite our paper:
+
+```bibtex
+@inproceedings{LiGNMPT,
+ author = {Li, Mengke and Liu, Ye and Lu, Yang and Zhang, Yiqun and Cheung, Yiu-ming and Huang, Hui},
+ booktitle = {Advances in Neural Information Processing Systems},
+ pages = {103985--104009},
+ title = {Improving Visual Prompt Tuning by Gaussian Neighborhood Minimization for Long-Tailed Visual Recognition},
+ volume = {37},
+ year = {2024}
+}
+```
+
+## Acknowledgment
+We refer to the code architecture from [[VPT reproduce](https://github.com/DongSky/vpt_reproduce)]. Many thanks to the authors.
