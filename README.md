@@ -48,4 +48,4 @@ If you find our paper and repo useful, please cite our paper:
 ```
 
 ## Acknowledgment
-We refer to the code architecture from [[VPT reproduce](https://github.com/DongSky/vpt_reproduce)]. Many thanks to the authors.
+We refer to the code architecture from [VPT reproduce](https://github.com/DongSky/vpt_reproduce). Many thanks to the authors.
